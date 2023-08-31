@@ -1,4 +1,4 @@
-# Data_Science
+# NYC Airbnb Data Analysis
 
 ## Introduction
 This project involves data analysis using various Python libraries, including Pandas, NumPy, Matplotlib, Seaborn, and WordCloud. The primary goal is to analyze a dataset containing information about Airbnb listings in New York City.
